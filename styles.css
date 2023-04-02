@@ -1,0 +1,31 @@
+.div1 {
+    background:#1F2937;
+}
+
+.heromain {
+    font: 48px extra-bold #F9FAF8;
+}
+
+.herosec {
+    font: 18px #E5E7EB;
+}
+
+.hlogo {
+    font: 24px #F9FAF8;
+}
+
+.info {
+    font: 36px extra-bold #1F2937;
+}
+
+.div3 {
+    background: #E5E7EB;
+}
+
+.quote {
+    font: 36px "light italic" #1F2937;
+}
+
+.button {
+    background: #3882F6;
+}
