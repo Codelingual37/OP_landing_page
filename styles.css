@@ -4,6 +4,7 @@ p {
 
 .container {
     display: flex;
+    justify-content: center;
 }
 
 .div1 {
@@ -13,6 +14,18 @@ p {
 .heromain {
     font: 48px extra-bold;
     color: #F9FAF8;
+}
+
+.div2pics {
+    margin: 10px;
+    padding: 50px;
+    border: 1px solid #3882F6;
+    border-radius: 20%;
+
+}
+
+.p2pics {
+    margin: 10px;
 }
 
 .herosec {
