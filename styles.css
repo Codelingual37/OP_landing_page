@@ -14,14 +14,14 @@ p {
 .heromain {
     font: 48px extra-bold;
     color: #F9FAF8;
+    margin: 0;
 }
 
 .div2pics {
     margin: 10px;
-    padding: 50px;
+    padding: 42%;
     border: 3px solid #3882F6;
     border-radius: 20%;
-
 }
 
 .p2pics {
@@ -29,13 +29,15 @@ p {
 }
 
 .herosec {
-    font: 18px;
+    font-size: 18px;
     color: #E5E7EB;
+    margin: 0;
 }
 
 .hlogo {
-    font: 24px;
+    font-size: 24px;
     color: #F9FAF8;
+    margin: 0;
 }
 
 .info {
@@ -66,8 +68,4 @@ p {
 
 .footer {
     color: #F9FAF8;
-}
-
-.border-demo {
-    border: 1px solid red;
 }
